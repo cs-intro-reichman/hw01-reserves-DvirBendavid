@@ -13,6 +13,6 @@ public class Coins {
 		int cents = totalcoins % 25;
 		
 		// prints the quarters and cents remainder 
-		System.out.println("Use " + quarters + " quarters and " + cents + " cents.");
+		System.out.println("Use " + quarters + " quarters and " + cents + " cents");
 	}
 }
